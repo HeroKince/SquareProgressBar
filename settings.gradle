@@ -1,0 +1,3 @@
+rootProject.name = "SquareProgressBar"
+include ':app'
+include ':library'
